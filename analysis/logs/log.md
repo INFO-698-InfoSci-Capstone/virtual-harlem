@@ -24,3 +24,23 @@ Write anything that you think would be important for YOU later on.
 
 ---
 
+
+First Log:
+### Date: 
+04/07/25
+
+
+### Number of hours: 
+First log so I will take in account all the work I have done would be around 60 hours. Most of that going into unity/ character creator and ConvAI. In Unity I built three scence for three historic locations in the Harlem. In character creator I model a few characters which will be roaming the streets of Harlem. I worked with ConvAI to create NPC's that are backed by LLM. I also incorporated and coded multiple algorithms to steer and control the AI's. I also spent time working on the project proposal which is completed and waiting for my advisors signature that will hopefully happen tomorrow.
+
+### Rose:
+We had to complete a working version with base features that allow for exploration of Harlem because we sent it out for various people to test and explorer the world and get some feedback from them. This was a great feeling of achomplishment as we have a working version out.
+
+### Bud: 
+Now for this month I will focus on the story elements and incorparate the various AI's I have created. I need to weave them into the narrative.
+
+### Thorn: 
+Having trouble with creating many characters in order to populate our environment, It takes quite a long time to create many different characters and so I am now looking into ways to speed up this process.
+
+## Additional thought
+None
