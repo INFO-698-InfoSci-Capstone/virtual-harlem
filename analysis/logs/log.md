@@ -44,3 +44,23 @@ Having trouble with creating many characters in order to populate our environmen
 
 ## Additional thought
 None
+
+Second Log:
+### Date: 
+04/14/25
+
+
+### Number of hours: 
+10 
+
+### Rose:
+I desisgned an AI character of W.D. Dubois and I am a little biased but it turn out amazing. Conversing with him is interesting and very insighting. This was my focus for the week.
+
+### Bud: 
+I am looking to create various puzzles for the player to solve an acquire clues about the myster of Capster Holstein
+
+### Thorn: 
+Funily enough Money is out biggest problem, We use ConvAI to assist in creating AI NPC's, but the free version only allows for one NPC. We will likely be stuck with just W.D. Dubois as out AI npc and the other npcs will be generic narrative focus AI.
+
+## Additional thought
+None
