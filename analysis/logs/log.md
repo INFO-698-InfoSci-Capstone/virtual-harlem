@@ -64,3 +64,23 @@ Funily enough Money is out biggest problem, We use ConvAI to assist in creating 
 
 ## Additional thought
 None
+
+Second Log:
+### Date: 
+04/22/25
+
+
+### Number of hours: 
+15 
+
+### Rose:
+Creating a narrative flow was exciting but a lot of work.
+
+### Bud: 
+Looks to create various puzzles as well as an interaction system with various objects.
+
+### Thorn: 
+Narrative elements have been slightly reduced for timesake and probably makes the game more fun so that the player do not have to be stuck in dialogue for too long.
+
+## Additional thought
+None
